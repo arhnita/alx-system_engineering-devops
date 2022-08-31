@@ -1,1 +1,1 @@
-move the file betty 
+write a script that lists all files
