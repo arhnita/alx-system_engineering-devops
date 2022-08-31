@@ -1,2 +1,1 @@
-To display content list of your curent directory.
-
+cript that changes the working directory to the user’s home directory.
