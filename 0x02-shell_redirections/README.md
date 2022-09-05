@@ -22,3 +22,4 @@ Translate characters
 Script that removes c and C
 script that reverse its input
 script that displays all users and directories by user
+find empty files
