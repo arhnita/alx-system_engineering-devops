@@ -7,3 +7,4 @@ Display last 10 lines of a file
 Display first 10 lines of a file
 Display third line of a file
 Scripts that creates a file with strings
+writes result in a file
