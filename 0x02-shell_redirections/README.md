@@ -19,3 +19,4 @@ Display words and three lines after it
 Display lines that do not contain pattern
 Display lines starting with letter only
 Translate characters
+Script that removes c and C
