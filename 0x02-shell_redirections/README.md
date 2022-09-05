@@ -20,3 +20,4 @@ Display lines that do not contain pattern
 Display lines starting with letter only
 Translate characters
 Script that removes c and C
+script that reverse its input
