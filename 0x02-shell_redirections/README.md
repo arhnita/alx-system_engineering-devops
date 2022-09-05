@@ -14,3 +14,4 @@ Count your directories
 Display ten newest files sorted by time
 Unique words
 Find root in a file
+Count that word
