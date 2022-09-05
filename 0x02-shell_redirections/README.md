@@ -10,3 +10,4 @@ Scripts that creates a file with strings
 writes result in a file
 Script to duplicate last line of file
 Script to delete all files within a directory
+Count your directoried
