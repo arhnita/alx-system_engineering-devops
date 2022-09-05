@@ -17,3 +17,4 @@ Find root in a file
 Count that word
 Display words and three lines after it
 Display lines that do not contain pattern
+Display lines starting with letter only
